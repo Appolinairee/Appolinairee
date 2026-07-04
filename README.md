@@ -91,14 +91,9 @@ Ingénieur Généraliste &mdash; **École Centrale Casablanca**.
 
 ---
 
-## 📈 Statistiques & Langages
+## 📬 Me Contacter
 
-<p align="left">
-  <a href="https://github.com/Appolinairee">
-    <img src="https://github-stats-extended.vercel.app/api?username=Appolinairee&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Appolinairee">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Appolinairee&layout=compact&theme=radical&hide_border=true" alt="Langages GitHub" />
-  </a>
-</p>
+*   **Portfolio :** [adandeappolinaire.me](https://adandeappolinaire.me)
+*   **Email :** [appolinaireenangnon.adande@centrale-casablanca.ma](mailto:appolinaireenangnon.adande@centrale-casablanca.ma)
+*   **LinkedIn :** [Appolinaire Adande](https://www.linkedin.com/in/appolinaire-adande-8b21ba249)
+*   **WhatsApp :** [+212 657553269](https://wa.me/212657553269)
