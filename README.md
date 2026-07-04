@@ -14,7 +14,7 @@
 
 Je conçois et déploie des architectures web avec une base **Fullstack et DevOps solide** orientée vers le **Machine Learning appliqué**.
 
-Élève ingénieur à l'**École Centrale Casablanca**.
+Ingénieur Généraliste &mdash; **École Centrale Casablanca**.
 
 ---
 
@@ -26,7 +26,7 @@ Je conçois et déploie des architectures web avec une base **Fullstack et DevOp
   <img src="https://img.shields.io/badge/React-3E4651?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/NestJS-3E4651?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/TypeScript-3E4651?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-3E4651?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### 2️⃣ Infrastructure & Données
