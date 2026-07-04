@@ -91,10 +91,14 @@ Ingénieur Généraliste &mdash; **École Centrale Casablanca**.
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 Statistiques & Langages
 
 <p align="left">
   <a href="https://github.com/Appolinairee">
-    <img src="https://github-stats-extended.vercel.app/api?username=Appolinairee&show_icons=true&theme=radical" alt="Stats GitHub" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Appolinairee&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Appolinairee">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Appolinairee&layout=compact&theme=radical&hide_border=true" alt="Langages GitHub" />
   </a>
 </p>
