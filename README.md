@@ -55,7 +55,7 @@ Je conçois et déploie des architectures web avec une base **Fullstack et DevOp
     <td width="50%" valign="top">
       <h3 align="center">Aqua-Atmos</h3>
       <a href="https://github.com/Appolinairee/aqua-atmos-ai" target="_blank">
-        <img src="https://adandeappolinaire.me/assets/projects/aqua-atmos.jpeg" width="100%" alt="Aqua-Atmos" />
+        <img src="https://raw.githubusercontent.com/Appolinairee/portefolio/main/public/assets/projects/aqua-atmos.jpeg" width="100%" alt="Aqua-Atmos" />
       </a>
       <p align="center">🏆 <b>Lauréat de la meilleure présentation à l'École Centrale Casablanca</b></p>
       <p>Système IoT & Embedded ML autonome de récolte d'eau atmosphérique (ESP32, Raspberry Pi, logique de décision IA, dashboard Flask).</p>
@@ -63,7 +63,7 @@ Je conçois et déploie des architectures web avec une base **Fullstack et DevOp
     <td width="50%" valign="top">
       <h3 align="center">Shopinxx</h3>
       <a href="https://shopinxx.com" target="_blank">
-        <img src="https://adandeappolinaire.me/assets/projects/shopinx.png" width="100%" alt="Shopinxx" />
+        <img src="https://raw.githubusercontent.com/Appolinairee/portefolio/main/public/assets/projects/shopinx.png" width="100%" alt="Shopinxx" />
       </a>
       <p align="center"><b>Marketplace B2B</b></p>
       <p>Plateforme e-commerce reliant grossistes et revendeurs. Architecture scalable Next.js / NestJS, APIs REST, Docker et CI/CD sur VPS Linux.</p>
@@ -73,7 +73,7 @@ Je conçois et déploie des architectures web avec une base **Fullstack et DevOp
     <td width="50%" valign="top">
       <h3 align="center">Conforthi</h3>
       <a href="https://conforthi.shopinxx.com/" target="_blank">
-        <img src="https://adandeappolinaire.me/assets/projects/conforthi.png" width="100%" alt="Conforthi" />
+        <img src="https://raw.githubusercontent.com/Appolinairee/portefolio/main/public/assets/projects/conforthi.png" width="100%" alt="Conforthi" />
       </a>
       <p align="center"><b>Marketplace Mobilier</b></p>
       <p>Plateforme de meubles au Bénin avec interactions sociales (likes, commentaires, partages). Architecture Next.js et API Laravel RESTful.</p>
@@ -81,7 +81,7 @@ Je conçois et déploie des architectures web avec une base **Fullstack et DevOp
     <td width="50%" valign="top">
       <h3 align="center">CardioSense</h3>
       <a href="https://cardiosense.shopinxx.com/" target="_blank">
-        <img src="https://adandeappolinaire.me/assets/projects/cardioai.png" width="100%" alt="CardioSense" />
+        <img src="https://raw.githubusercontent.com/Appolinairee/portefolio/main/public/assets/projects/cardioai.png" width="100%" alt="CardioSense" />
       </a>
       <p align="center"><b>Predictor de risque d'insuffisance cardiaque</b></p>
       <p>Application de prédiction clinique reposant sur un pipeline Machine Learning et une interface Next.js réactive de saisie de variables.</p>
@@ -94,5 +94,7 @@ Je conçois et déploie des architectures web avec une base **Fullstack et DevOp
 ## 📈 Statistiques GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Appolinairee&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
+  <a href="https://github.com/Appolinairee">
+    <img src="https://github-readme-stats.vercel.app/api?username=Appolinairee&show_icons=true&theme=radical" alt="Stats GitHub" />
+  </a>
 </p>
